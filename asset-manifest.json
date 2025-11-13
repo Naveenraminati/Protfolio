@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-frontend/static/css/main.50d4cd68.css",
-    "main.js": "/portfolio-frontend/static/js/main.96aded8a.js",
-    "static/media/Java_page-0001.jpg": "/portfolio-frontend/static/media/Java_page-0001.95164d5f921980cf541c.jpg",
-    "static/media/BestEmploye.jpg": "/portfolio-frontend/static/media/BestEmploye.9d10458d6ffc49dc0f2c.jpg",
-    "index.html": "/portfolio-frontend/index.html",
-    "main.50d4cd68.css.map": "/portfolio-frontend/static/css/main.50d4cd68.css.map",
-    "main.96aded8a.js.map": "/portfolio-frontend/static/js/main.96aded8a.js.map"
+    "main.css": "/Protfolio/static/css/main.50d4cd68.css",
+    "main.js": "/Protfolio/static/js/main.c7b6aa36.js",
+    "static/media/Java_page-0001.jpg": "/Protfolio/static/media/Java_page-0001.95164d5f921980cf541c.jpg",
+    "static/media/BestEmploye.jpg": "/Protfolio/static/media/BestEmploye.9d10458d6ffc49dc0f2c.jpg",
+    "index.html": "/Protfolio/index.html",
+    "main.50d4cd68.css.map": "/Protfolio/static/css/main.50d4cd68.css.map",
+    "main.c7b6aa36.js.map": "/Protfolio/static/js/main.c7b6aa36.js.map"
   },
   "entrypoints": [
     "static/css/main.50d4cd68.css",
-    "static/js/main.96aded8a.js"
+    "static/js/main.c7b6aa36.js"
   ]
 }
