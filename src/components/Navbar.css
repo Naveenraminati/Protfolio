@@ -1,0 +1,48 @@
+/* Navbar container */
+.navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: #1e1e1e;
+  padding: 10px 20px;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+/* Flex container for logo and links */
+.navbar-container {
+  display: flex;
+  justify-content: space-between; /* Logo left, links right */
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Logo styling */
+.logo {
+  color: #00bfff;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* Navigation links list */
+.nav-links {
+  list-style: none;
+  display: flex; /* Makes links horizontal */
+  gap: 30px; /* Space between links */
+  margin: 0;
+  padding: 0;
+}
+
+/* Each link */
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+/* Hover effect */
+.nav-links li a:hover {
+  color: #00bfff;
+}

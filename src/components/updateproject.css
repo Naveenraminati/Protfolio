@@ -1,0 +1,60 @@
+.projects-section {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+.projects-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.projects-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.projects-section li {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  color: #555;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  transition: 0.3s;
+}
+
+.projects-section li:hover {
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.project-details {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f9f9f9;
+}
+
+.project-details button {
+  margin-top: 15px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #333;
+  color: white;
+  cursor: pointer;
+}
+
+.project-details button:hover {
+  background-color: #555;
+}

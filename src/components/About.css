@@ -1,0 +1,20 @@
+.about-section {
+  padding: 60px 20px;             /* Top-bottom 60px, left-right 20px */
+  text-align: center;              /* Center text */
+  background-color: #f8f8f8;      /* Light background */
+  font-family: Arial, sans-serif;
+}
+
+.about-section h2 {
+  font-size: 2.5rem;               /* Large heading */
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.about-section p {
+  font-size: 1.2rem;
+  line-height: 1.6;               /* Spacing between lines */
+  max-width: 700px;               /* Limit width for readability */
+  margin: 0 auto;                 /* Center horizontally */
+  color: #555;
+}
