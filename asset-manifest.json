@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Naveenraminati/Protfolio/static/css/main.50d4cd68.css",
-    "main.js": "/Naveenraminati/Protfolio/static/js/main.f1ef74f9.js",
-    "static/media/Java_page-0001.jpg": "/Naveenraminati/Protfolio/static/media/Java_page-0001.95164d5f921980cf541c.jpg",
-    "static/media/BestEmploye.jpg": "/Naveenraminati/Protfolio/static/media/BestEmploye.9d10458d6ffc49dc0f2c.jpg",
-    "index.html": "/Naveenraminati/Protfolio/index.html",
-    "main.50d4cd68.css.map": "/Naveenraminati/Protfolio/static/css/main.50d4cd68.css.map",
-    "main.f1ef74f9.js.map": "/Naveenraminati/Protfolio/static/js/main.f1ef74f9.js.map"
+    "main.css": "/Protfolio/static/css/main.50d4cd68.css",
+    "main.js": "/Protfolio/static/js/main.c7b6aa36.js",
+    "static/media/Java_page-0001.jpg": "/Protfolio/static/media/Java_page-0001.95164d5f921980cf541c.jpg",
+    "static/media/BestEmploye.jpg": "/Protfolio/static/media/BestEmploye.9d10458d6ffc49dc0f2c.jpg",
+    "index.html": "/Protfolio/index.html",
+    "main.50d4cd68.css.map": "/Protfolio/static/css/main.50d4cd68.css.map",
+    "main.c7b6aa36.js.map": "/Protfolio/static/js/main.c7b6aa36.js.map"
   },
   "entrypoints": [
     "static/css/main.50d4cd68.css",
-    "static/js/main.f1ef74f9.js"
+    "static/js/main.c7b6aa36.js"
   ]
 }
